@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-      <div>Hello React</div>
+      <div>Hello React
+      <h1>안녕하세요</h1></div>
+      
   );
 }
 
